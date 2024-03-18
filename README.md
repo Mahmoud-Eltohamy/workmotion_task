@@ -19,7 +19,7 @@
 4. Open Cypress test runner: ``` npx cypress open ```
 5. A simple github actions pipeline is done for cross browser testing 'firefox and chrome' plz check github actions for reports and successful runs 'plz do not trigger too much github actions as this will end up my quota in rate limit'
 
-[![Cypress Tests](https://github.com/Mahmoud-Eltohamy/workmotiontest/actions/workflows/cypress-report.yaml/badge.svg)](https://github.com/Mahmoud-Eltohamy/workmotiontest/actions/workflows/cypress-report.yaml)
+[![Cypress Tests](https://github.com/Mahmoud-Eltohamy/workmotion_task/actions/workflows/cypress-report.yaml/badge.svg)](https://github.com/Mahmoud-Eltohamy/workmotion_task/actions/workflows/cypress-report.yaml)
 
 ### Next steps
 1. harden the test code to have page action pattern and enhance it with some assertion for each step.
